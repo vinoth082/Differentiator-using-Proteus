@@ -35,6 +35,7 @@ A Differentiator circuit produces an output voltage proportional to the rate of 
 7.	Observe input and output waveforms on CRO.
 ## Tabulation
 S.No 	         Input Signal	              Frequency	            Expected  Output	            Practical Observation
+<img width="1153" height="560" alt="image" src="https://github.com/user-attachments/assets/7b8d1c09-5e8c-4b0f-86cc-7f04be9658f6" />
 
 ## Waveforms
 <img width="1600" height="997" alt="image" src="https://github.com/user-attachments/assets/2c62dc5f-1cf9-463b-bb04-26f507e9daf3" />
